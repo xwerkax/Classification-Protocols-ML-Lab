@@ -35,5 +35,4 @@ This repository contains solutions to Lab 2 of a Machine Learning course. The la
 ## 📁 Files
 - `zadanie1.py` – Data generation and visualization
 - `zadanie2.py` – Model training, prediction, and evaluation
-- `data.csv` – Generated dataset (features + labels)
 - `README.md` – This file
